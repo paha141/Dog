@@ -1,0 +1,23 @@
+body{
+	padding: 0 25px 0 25px;
+	margin: 0;
+	font-family: 'Andika', sans-serif;
+	background: #fff;
+}
+
+.container{
+	margin: 0 auto;
+	text-align: left;
+	align-items: center;
+}
+
+.header{
+	height: 150px;
+	padding-top: 50px;
+	text-align: center;
+}
+
+.container1{
+	margin: 0 auto;
+	text-align: center;
+}
